@@ -1,11 +1,16 @@
 {
-  "name": "vue-cube-echarts",
+  "name": "cube-vue-echarts",
   "version": "0.1.0",
   "private": true,
+  "cacheDirectories": [
+    "node_modules",
+    ".next/cache"
+  ],
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
-    "lint": "vue-cli-service lint"
+    "lint": "vue-cli-service lint",
+    "deploy": "git add . && git commit -m Build && git push && vercel --prod"
   },
   "dependencies": {
     "@cubejs-client/core": "^0.29.8",
