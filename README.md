@@ -12,6 +12,18 @@ https://vue-cube-echarts.vercel.app/
 
 https://github.com/lelouchB/vue-cube-echarts
 
+## MOMA Dataset is on GitHub
+
+https://github.com/MuseumofModernArt/collection
+
+and
+
+https://github.com/coding-to-music/next-with-cube-charts
+
+## Example setting up Cube
+
+https://cube.dev/blog/building-nextjs-dashboard-with-dynamic-charts-and-ssr
+
 ## Environment Values
 
 ```java
