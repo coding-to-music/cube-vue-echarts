@@ -1,6 +1,5 @@
-
 <template>
-  <h1>Vue Cube.js ECharts</h1>
+  <h1>Vue Cube.js ECharts using the MOMA art dataset</h1>
   <div class="dashboard">
     <div class="cards-container">
       <query-builder :cubejs-api="cubejsApi" :query="totalPaintingsQuery">
